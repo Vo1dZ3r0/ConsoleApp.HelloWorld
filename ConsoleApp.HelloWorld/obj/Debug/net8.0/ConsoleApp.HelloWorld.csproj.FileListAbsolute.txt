@@ -1,0 +1,14 @@
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.exe
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.deps.json
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.runtimeconfig.json
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.dll
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.pdb
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.AssemblyInfoInputs.cache
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.AssemblyInfo.cs
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.csproj.CoreCompileInputs.cache
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.dll
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\refint\ConsoleApp.HelloWorld.dll
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.pdb
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.genruntimeconfig.cache
+d:\Code\ConsoleApp.HelloWorld\ConsoleApp.HelloWorld\obj\Debug\net8.0\ref\ConsoleApp.HelloWorld.dll
